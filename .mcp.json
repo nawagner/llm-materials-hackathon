@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "semanticscholar": {
+      "serverUrl": "https://asta-tools.allen.ai/mcp/v1",
+      "headers": {
+        "x-api-key": "<YOUR_API_KEY>"
+      }
+    }
+  }
+}
