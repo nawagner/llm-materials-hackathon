@@ -1,0 +1,11 @@
+[project]
+name = "llm-materials-hackathon"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pymatgen>=2025.6.14",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.5",
+]
