@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 import os
-import json
 from dotenv import load_dotenv
-from pymatgen.core import Structure
 from pymatgen.ext.matproj import MPRester
 
 load_dotenv()
